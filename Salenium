@@ -21,7 +21,40 @@ Platform Independent:We can install selenium on any OS so no need to purchase li
 It supports various languages
 C#    Haskell  Dart 
 Perl  JavaScript
-perl
 Python
 Java
+
+Disadvantage of Selenium
+1. It supports only web based application.
+2. Person should be aware of atleast one programming language.
+3. Selenium takes the help of 3rd party tool
+4. We cannot automate
+5. OTP,Captcha, I am not robot, audio, videos, Barcodes
+
+What are the components/Flavors selenium
+1. Selenium Core:->
+2. Selenium IDE(Integrated Development Environment)
+3. Selenium RC:->
+4. Selenium WebDriver:-> 
+5. Selenium Grid:-> used to perform compatability testing.
+6. Selendroid:-> used to operate android application( less than 4.0 version)
+7. Appium -> used to oerate all mobile device
+8. Winium: -> (Windows based application) Ex: ms office, excel, paint etc.
+
+2. Salenium IDE(Integrated Development Environment)
+It is plugin we used install in chrome browser
+Record and replay tool
+
+Advantages
+Easy to use
+No Programming required
+Cross browser testing
+
+Drawbacks
+
+Verification/we can use looping/conditional statements
+It supports on web application
+we cannot integrate 3rd party tool.
+
+
 
