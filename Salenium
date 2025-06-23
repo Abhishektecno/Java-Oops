@@ -1,0 +1,27 @@
+Salenium:
+It is an open source web application test automation tool.
+
+Open Source:-> It means we can see the sourcce code
+We can download it, and modify it.
+
+Web Application:-> Any application that we can open or launch via browser.
+E.g: Facebook.com, Gmail.com
+
+Test Automation:-> Performing the testing of the application automitacally without using any manual inventions.
+
+Tool-> It is a software/Application.
+
+WHY SALENIUM/ADVANTAGES:
+Free Tool:-> We don't need to purchase licence and cost of the project is reduced.
+Open Source:-> We can download, see the source code and modify
+Easy to customize and customization with 3rd party tools.
+
+Platform Independent:We can install selenium on any OS so no need to purchase licesce for the OS
+
+It supports various languages
+C#    Haskell  Dart 
+Perl  JavaScript
+perl
+Python
+Java
+
